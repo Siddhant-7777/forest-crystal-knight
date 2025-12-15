@@ -31,5 +31,5 @@ Follow these steps to run the game on your local machine.
 ### 1. Clone the Repository
 Open your terminal and run:
 
-git clone [https://github.com/YOUR_USERNAME/forest-crystal-knight.git](https://github.com/YOUR_USERNAME/forest-crystal-knight.git)
+git clone [https://github.com/Siddhant-7777/forest-crystal-knight.git]
 cd forest-crystal-knight
